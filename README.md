@@ -7,3 +7,5 @@ Here will go all the Code Fellows 301 reading notes.
 ### Table of Contents:
 
 [Class 1 Reading Notes](class-01.md)
+
+[Class 2 Reading Notes](class-02.md)
