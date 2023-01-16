@@ -9,3 +9,5 @@ Here will go all the Code Fellows 301 reading notes.
 [Class 1 Reading Notes](class-01.md)
 
 [Class 2 Reading Notes](class-02.md)
+
+[Cladd 3 Reading Notes](class-03.md)
