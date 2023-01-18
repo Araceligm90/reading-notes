@@ -14,7 +14,7 @@ Always returns a new array, therefore there is no need to declare a new one. It 
 
 You would have to use HTML tags inline and curly braces, as displayed in the example below:
 
-[React-JSX](images/React%20-%20map-jsx-example.png)
+![React-JSX](images/React%20-%20map-jsx-example.png)
 
 
 **3. Each list item needs a unique...**
@@ -46,21 +46,21 @@ Using Math functions.
 
 **3. Give an example of using the spread operator to combine two arrays.**
 
-[Spread operator concatenation](images/spread-concatenation.png)
+![Spread operator concatenation](images/spread-concatenation.png)
 
 The result displayed on the console would be the following: *hello how are you thank you very well*
 
 
 **4. Give an example of using the spread operator to add a new item to an array.**
 
-[Spread operator addition](images/spread-adding.png)
+![Spread operator addition](images/spread-adding.png)
 
 The result displayed in the console would be the following: *banana, peach, watermelon, strawberries, blueberries*
 
 
 **5. Give an example of using the spread operator to combine two objects into one.**
 
-[Spread operator combining objects](images/spread-combining-objects.png)
+![Spread operator combining objects](images/spread-combining-objects.png)
 
 The result displayed in the console would be the following: *myObject3 {name: 'Araceli', age: 32, pets: 1}*
 
