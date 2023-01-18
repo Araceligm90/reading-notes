@@ -17,6 +17,7 @@ We should update the state with the responses as they are entered because you ca
 
 **3. How do we target what the user is entering if we have an event handler on an input field?**
 
+You can target the user's input in an event handler using event.target.value.
 
 
 ### The Conditional (Ternary) Operator.
