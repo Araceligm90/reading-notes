@@ -14,3 +14,4 @@ Here will go all the Code Fellows 301 reading notes.
 
 [Class 4 Reading Notes](class-04.md)
 
+[Class 5 Reading Notes](class-05.md)
