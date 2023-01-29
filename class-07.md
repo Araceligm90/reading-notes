@@ -12,6 +12,7 @@ Roy Fielding is a computer scientit. He is one of the principal authors of the H
 
 **2. Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?**
 
+Languages are not universal?
 
 
 **3. What is the HTTP protocol that Fielding and his friends created?**
