@@ -19,3 +19,5 @@ Here will go all the Code Fellows 301 reading notes.
 [Class 6 Reading Notes](class-06.md)
 
 [Class 7 Reading Notes](class-07.md)
+
+[Class 8 Reading Notes](class-08.md)
