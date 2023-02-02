@@ -1,7 +1,9 @@
-#APIs
+# CLASS 8 READING NOTES 
+
+## APIs
 
 
-## API Design Best Practices.
+### API Design Best Practices.
 
 
 **1. What does REST stand for?**
